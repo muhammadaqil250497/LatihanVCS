@@ -1,6 +1,6 @@
-#LatihanVCS
+# LatihanVCS
 
-#Tugas pertemuan ke 4, 5 Dan 6 Bahasa Pemrograman
+# Tugas pertemuan ke 4, 5 Dan 6 Bahasa Pemrograman
 
 Nama : M. Aqil Alfarid
 
@@ -13,7 +13,7 @@ Prodi : Teknik Informatika
 
 
 
-#Cara Menggunakan Git dan Github :
+# Cara Menggunakan Git dan Github :
 
 
 1. Install git terlebih dahulu (www.git-scm.com)
@@ -68,10 +68,10 @@ Masukkan perintah berikut untuk membuat commit.
 
 
 
-#PYHTON
+# PYHTON
 
 
-#Tugas pertemuan ke 5
+# Tugas pertemuan ke 5
 
 ![Gambar](screenshot-pyhton/py0.png)
 
@@ -102,7 +102,7 @@ Fungsi huruf f pada perintah print(f"...") adalah fungsi print atau bisa memudah
 
 Selesai Tugas 5 ini.
 
-#TUGAS 6 LAB 1
+# TUGAS 6 LAB 1
 
 ![Gambar](screenshot-pyhton/py6.png)
 
@@ -165,7 +165,7 @@ Hasilnya :
 
 String Format 2 Pada syntax atau source code string format 2 akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri) Dengan ketentuan sebagai berikut : Alignment, padding, dan precesion dengan .format() dalam kurung kurawal kita dapat menetapkan panjang bidang, rata kanan/kiri, parameter pembulatan dan banyak lagi. Secara Default, .format() menggunakan rata teks ke kiri, angka ke kanan. Kita dapat menggunakan opsi opsional <, ^, atau > untuk mengatur perataan kiri, tengah, atau kanan.
 
-#TUGAS 6 LAB 2
+# TUGAS 6 LAB 2
 
 ![Gambar](screenshot-pyhton/py15.png)
 
@@ -179,4 +179,4 @@ Dan ini hasil Outputnya.
 
 Selesai.
 
-#Terima Kasih 
+# Terima Kasih 
